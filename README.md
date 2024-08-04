@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Skribble.io Clone**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
